@@ -5,10 +5,10 @@
   - [X] Lecture 1 - Images and Abstraction
   - [X] Lecture 2 - Convolutions
   - [X] Homework 1
-- [ ] Week 2
-  - [ ] Lecture 3 - Dynamic programming, Views and GPUs
-  - [ ] Lecture 4 - Live coding seam carving
-  - [ ] Homework 2
+- [X] Week 2
+  - [X] Lecture 3 - Dynamic programming, Views and GPUs
+  - [X] Lecture 4 - Live coding seam carving
+  - [X] Homework 2
 - [ ] Week 3
   - [ ] Lecture 5 - Structure and Dispatch
   - [ ] Lecture 6 - Understanding data
